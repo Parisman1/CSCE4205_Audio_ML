@@ -1,0 +1,1 @@
+- Add variant lowpass and highpass filtering to noise signal to simulate sound from different distances
