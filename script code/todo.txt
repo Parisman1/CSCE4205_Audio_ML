@@ -1,1 +1,2 @@
 - Add variant lowpass and highpass filtering to noise signal to simulate sound from different distances
+  Use a single multiplier for HP cutoff freq, LP cutoff freq, power
