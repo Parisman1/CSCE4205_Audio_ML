@@ -1,8 +1,14 @@
 # CSCE4205_Audio_ML
-group project for UNT CSCE 4205
+Group project for UNT CSCE 4205
 
+Based off the code from Thalles Silva and Fernando Moraes on their project for a CNN Audio Denoiser: https://github.com/daitan-innovation/cnn-audio-denoiser
 
-This is a test by Paris 
-Olivia was here
-Daniel has been here as well
-and Tallon was here
+Group Members:
+
+Paris Estes
+
+Daniel Bates
+
+Devon Gates
+
+Tallon Coxe
